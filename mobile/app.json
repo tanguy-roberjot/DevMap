@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Blank Template",
-    "slug": "mobile",
+    "name": "Dev Map",
+    "slug": "devmap",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Dev Map is a project that was developed to find other developers that work with the same technologies near your position ",
+    "githubUrl": "https://github.com/tanguy-roberjot/devmap"
   }
 }

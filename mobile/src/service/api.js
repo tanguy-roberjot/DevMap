@@ -1,7 +1,7 @@
 import axios from 'axios';
-
+import { BACKEND_URL } from 'react-native-dotenv'
 const api = axios.create({
-  baseURL: 'http://192.168.100.8:3333',
+  baseURL: `${BACKEND_URL}`,
 });
 
 export default api;

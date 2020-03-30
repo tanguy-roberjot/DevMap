@@ -9,6 +9,7 @@ import { MaterialIcons } from '@expo/vector-icons'
 import api from '../service/api';
 import { connect, disconnect, subscribeToNewDev } from '../service/socket';
 
+
 export default function Main() {
   const [devs, setDevs] = useState([]);
   const [techs, setTechs] = useState('');
