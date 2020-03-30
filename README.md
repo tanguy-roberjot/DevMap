@@ -5,22 +5,22 @@
   🚀 10th Stack Week by RocketSeat
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tanguy2508/devmap">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tanguy-roberjot/devmap">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tanguy2508/devmap">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tanguy-roberjot/devmap">
   
-  <a href="https://github.com/tanguy2508/devmap/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tanguy2508/devmap">
+  <a href="https://github.com/tanguy-roberjot/devmap/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tanguy-roberjot/devmap">
   </a>
 
-  <a href="https://github.com/tanguy2508/devmap0/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/tanguy2508/devmap">
+  <a href="https://github.com/tanguy-roberjot/devmap0/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/tanguy-roberjot/devmap">
   </a>
 
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/devradar.png" width="100%">
+  <img alt="Frontend" src=".github/devmap.png" width="100%">
 </p>
 
 ## Used technologies
